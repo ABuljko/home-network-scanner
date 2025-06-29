@@ -56,4 +56,4 @@ To enable email alerts, set `"email_alerts": true` in [`config.json`](config.jso
 
 ## License
 
-MIT
+[MIT](https://github.com/ABuljko/home-network-scanner/blob/main/LICENSE)
