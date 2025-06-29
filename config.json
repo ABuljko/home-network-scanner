@@ -1,0 +1,11 @@
+{
+  "network_range": "192.168.1.0/24",
+  "email_alerts": false,
+  "email_settings": {
+    "sender": "your_email@example.com",
+    "password": "your_app_password",
+    "receiver": "receiver_email@example.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587
+  }
+}
